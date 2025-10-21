@@ -1,7 +1,6 @@
 # Pablo ferreira 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
